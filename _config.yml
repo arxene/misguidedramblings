@@ -5,6 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   The blog of Ray McMahan to keep track of learning progress and everyday musings.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://arxene.github.io/misguidedramblings" # the base hostname & protocol for your site
+baseurl: "/misguidedramblings"
 github_username: arxene
 
 # Build settings
