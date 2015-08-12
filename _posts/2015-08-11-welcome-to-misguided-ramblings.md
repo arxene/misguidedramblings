@@ -21,4 +21,6 @@ What I've done today is set up a basic Jekyll blog on Github Pages. I've also re
 
 Here's my kitty tax for you reading this far.
 
-![Kitty tax]({{ site.url }}/assets/kitty-tax.jpg "Taxed kitty")
+![Kitty tax]({{ site.url }}/assets/img/kitty-tax.jpg "Taxed kitty")
+
+Site URL is: {{ site.url }}
