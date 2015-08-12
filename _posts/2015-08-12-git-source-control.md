@@ -47,5 +47,5 @@ Although Git does make collaborating with others and keeping track of changes ea
 ## Helpful Links ##
 
 [Learn Git Branching](http://pcottle.github.io/learnGitBranching/): An interactive Git tutorial  
-[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/): From GitHub Guides, a simple visual explanation
+[Understanding the GitHub Flow](https://guides.github.com/introduction/flow/): From GitHub Guides, a simple visual explanation  
 [Github Flow](http://scottchacon.com/2011/08/31/github-flow.html): by Scott Chacon on August 31, 2011. Goes into more detail about the link above.
