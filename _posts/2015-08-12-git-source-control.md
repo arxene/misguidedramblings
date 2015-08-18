@@ -1,13 +1,15 @@
 ---
 title: Git Source Control
+excerpt: "Source control (also called version control or revision control) is a must for any modern software developer. Just like breathing became essential to the fish that left the sea to become mammals, source control is vital to sustaining modern software projects. If I were to find out in a job interview that a shop was not using source control, that would raise a red flag and I would run as fast as I could."
 layout: post
+featured_image: /images/cover.jpg
 ---
 
 # Learning Git Source Control #
 
 ## Why use source control ##
 
-Source control (also called version control or revision control) is a must for any modern software developer. If I were to find out in a job interview that a shop was not using source control, that would raise a red flag and I'd be hesitant about joining.
+Source control (also called version control or revision control) is a must for any modern software developer. Just like breathing became essential to the fish that left the sea to become mammals, source control is vital to sustaining modern software projects. If I were to find out in a job interview that a shop was not using source control, that would raise a red flag and I would run as fast as I could.
 
 Here are some of the benefits and uses of source control:
 

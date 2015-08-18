@@ -1,13 +1,16 @@
 ---
-title: Welcome to Misguided Ramblings
+title:  "Welcome to Misguided Ramblings"
+date:   2015-08-11 16:51
+excerpt: "I know what you're asking. What is this, who are you, and why have you captured and dragged me to this unidentified building and forced me to read this? All good questions, but I'll be the one asking the questions from here on out so just do what I say and nobody gets hurt."
 layout: post
+featured_image: /images/cover.jpg
 ---
 
 # Welcome to Misguided Ramblings #
 
 ## Why are you doing this? ##
 
-I know what you're asking. What is this, who are you, and why have you captured and dragged me to this unidentified building and forced me to read this? All good questions, but I'll be the one asking the questions from here on out so just do what i say and nobody gets hurt.
+I know what you're asking. What is this, who are you, and why have you captured and dragged me to this unidentified building and forced me to read this? All good questions, but I'll be the one asking the questions from here on out so just do what I say and nobody gets hurt.
 
 My name is Ray McMahan and I'm in the midst of month 6 in Unemployment Land. This means I have a lot of time to hang out with my cat and just destroy my Netflix queue. In all seriousness though I'd like to beef up on my knowledge of web development, the career I'm aspiring to.
 
@@ -21,4 +24,4 @@ What I've done today is set up a basic Jekyll blog on Github Pages. I've also re
 
 Here's my kitty tax for you reading this far.
 
-![Kitty tax]({{ site.url }}/assets/img/kitty-tax.jpg "Taxed kitty")
+![Kitty tax]({{ site.url }}{{ site.baseurl }}/assets/img/kitty-tax.jpg "Taxed kitty")

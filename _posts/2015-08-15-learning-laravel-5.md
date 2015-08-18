@@ -1,7 +1,9 @@
 ---
 title: Learning Laravel 5
-layout: post
 date: 2015-08-15 18:00
+excerpt: Learning Laravel, the PHP community's shiny toys
+layout: post
+featured_image: /images/cover.jpg
 ---
 
 # Learning Laravel 5 #

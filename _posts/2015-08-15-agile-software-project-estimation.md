@@ -1,7 +1,9 @@
 ---
 title: Agile Software Project Estimation
-layout: post
 date: 2015-08-15 21:33
+excerpt: Estimating projects is hard. Like really hard. Agile methodologies like Scrum take into account how bad humans generally are at estimating and build a process for rapidly delivering high quality software despite that.
+layout: post
+featured_image: /images/cover.jpg
 ---
 
 # Agile Software Project Estimation #
