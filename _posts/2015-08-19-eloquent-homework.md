@@ -37,7 +37,7 @@ The steps I took to do this:
 			- Set date using `$task->due_date = '2015-09-01';`
 		3. $task->save();
 	- Create by Mass Assignment
-		1. $task = App\Tasks::create(<associative array>);
+		1. `$task = App\Tasks::create(<associative array>);`
 	- Update
 		1. Set $task to a specific record
 		2. Set $task fields
