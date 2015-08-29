@@ -333,6 +333,11 @@ article a:hover {
   text-decoration: underline;
 }
 
+article img {
+  max-width: 100%;
+  height: auto;
+}
+
 /* Posts List */
 
 ul.posts li {
