@@ -2,8 +2,8 @@
 title: 'Misguided Ramblings' # Your Title
 tagline: 'The word vomit of an intrepid young web developer' # A brief tagline for your site
 sidebar_image: /images/cover.jpg
-#url: "http://arxene.github.io/misguidedramblings"
-url: "localhost:4000"
+url: "http://arxene.github.io"
+#url: "127.0.0.1"
 baseurl: "/misguidedramblings"
 github_username: arxene
 
